@@ -8,7 +8,7 @@ Flashbots is a research and development organization working on mitigating the n
 
 Our efforts are separated into three sub-organizations:
 * **Product**: builds core infrastructure and ecosystem tooling that redefines the block production supply chain. This includes [MEV-Boost](https://boost.flashbots.net/), [BuilderNet](https://buildernet.org/), [Rollup-Boost](https://github.com/flashbots/rollup-boost), [Protect RPC](https://docs.flashbots.net/flashbots-protect/overview), and [SUAVE](https://writings.flashbots.net/the-future-of-mev-is-suave).
-* **Research**: an open, transparent, and [collaborative research effort](https://github.com/flashbots/mev-research) that explores MEV market dynamics and blockchain design challenges at the intersection of economics, security, and cryptography. To fuel the collaborative nature of our research, anybody can submit a [Flashbots Research Proposal](https://github.com/flashbots/mev-research/blob/main/process.md) (FRPs) and might become eligible for a grant.
+* **Research**: an open, transparent, and [collaborative research effort](https://github.com/flashbots/mev-research) that explores MEV market dynamics and blockchain design challenges at the intersection of economics, security, and cryptography. To fuel the collaborative nature of our research, anybody can submit a [Flashbots Research Proposal](https://github.com/flashbots/mev-research/blob/main/process.md) (FRPs) and might become eligible for a grant. See also the [Flashbots Research Problem Database](https://flashbots.notion.site/21f6b4a0d87680a2b08dca1eda93ff6f?v=21f6b4a0d87681ddb959000c44242e52) for a catalog of our efforts, from early-stage ideas to completed work.
 * **Coordination**: an organizational effort to streamline operational processes, interface with external teams in the ecosystem and scale ourselves to maximize our impact.
 
 Flashbots Research and Product are tightly-coupled dual engines that propel our organization forward in a phased approach:
@@ -18,7 +18,7 @@ Flashbots Research and Product are tightly-coupled dual engines that propel our 
 Our work is open source and you can follow our progress in each respective repository of the Flashbots organization. Anyone is welcome to comment on an issue or pick it up entirely.
 
 ### Community
-The best way to interact with the Flashbots community is through our [forum](https://collective.flashbots.net/), which is our central communication platform for conversations, announcements and information sharing. We also publish weekly [MEV Letters](https://collective.flashbots.net/tag/the-mev-letter) that aggregate information and provide summaries on everything Flashbots and MEV.
+The best way to interact with the Flashbots community is through our [forum](https://collective.flashbots.net/), which is our central communication platform for conversations, announcements, and information sharing. We also publish [The MEV Letters](https://collective.flashbots.net/tag/the-mev-letter) weekly to aggregate information and provide summaries on all things related to Flashbots and MEV.
 
 ### Join us!
 We are not your typical project, we are fully remote and our principles are based on that of a [pirate hacker collective](https://www.youtube.com/watch?v=T0fAznO1wA8). If you are a self-directed individual who puts collective success above your own and is motivated by solving challenging problems with asymmetric impact, you will fit right in. 
